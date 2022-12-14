@@ -2,6 +2,14 @@
 #### I am working on software development.
 I am a junior computer engineering student. I am majoring in Artificial Intelligence and Machine Learning. I've been interested in mobile development lately.
 
+###Skills and Experience
+* 📱 Flutter(I am just getting started)
+* ☕ Java
+* 💻 SQL
+* 🐍 Python 
+* 🖥️ HTML/CSS/Bootstrap 
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/goksuturac)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/turacgoksu/)  
 
