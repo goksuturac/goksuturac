@@ -2,7 +2,7 @@
 #### I am working on software development.
 I am a junior computer engineering student. I am majoring in Artificial Intelligence and Machine Learning. I've been interested in mobile development lately.
 
-###Skills and Experience
+### Skills and Experience
 * 📱 Flutter(I am just getting started)
 * ☕ Java
 * 💻 SQL
