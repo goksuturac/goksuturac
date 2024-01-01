@@ -4,7 +4,7 @@
 
 
 #### I am working on AI and ML.
-I am a senior computer engineering student and doing minor in aritificial intelligence and machine learning at Eskisehir Technichal University. I have been researching machine learning algorithms, specially neural networks. 
+I am a senior computer engineering student and doing minor in aritificial intelligence and machine learning at Eskisehir Technichal University. I have been working on machine learning algorithms, specially neural networks. 
 I have also recently been working in computer vision and image processing part. 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
