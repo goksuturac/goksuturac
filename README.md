@@ -6,7 +6,7 @@
 #### I am working on AI and ML.
 I recently graduated from Eskişehir Technical University with a degree in Computer Engineering and a minor in Artificial Intelligence and Machine Learning. During my studies, I focused on enhancing my skills in image processing and machine learning through various projects. 
 
-I am actively pursuing a position where I can apply and expand my expertise in artificial intelligence and machine learning.
+I am a MSc student in Computer Engineering at Eskisehir Technical University. I work as a research student at AI in Healthcare Lab.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
